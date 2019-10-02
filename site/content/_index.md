@@ -15,7 +15,7 @@ intro:
     Lippukauppa on auennut ja tuttuun tapaan tarjoamme kolme erilaista lippua,
     valitse omasi alta!
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/star.svg
     text: |
       VIP konepaikalla saat nauttia leveämmästä pöydästä ja VIP tilasta!
   - image: /img/computer.svg
