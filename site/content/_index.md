@@ -18,7 +18,7 @@ products:
   - image: img/illustrations-coffee.svg
     text: |
       VIP konepaikalla saat nauttia leveämmästä pöydästä ja VIP tilasta!
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/computer.svg
     text: >
       Perinteinen konepaikka on varma valinta! Konepaikalta pääset kokemaan
       Lamerfestin parhaimmillaan
