@@ -10,12 +10,10 @@ blurb:
     kilpailuja ja kovatasoisia turnauksia! Liity mukaan Lamerfestin henkeen ja
     osta lippusi alta!
 intro:
-  heading: What we offer
-  text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Osta lippusi
+  text: >
+    Lippukauppa on auennut ja tuttuun tapaan tarjoamme kolme erilaista lippua,
+    valitse omasi alta!
 products:
   - image: img/illustrations-coffee.svg
     text: >-
