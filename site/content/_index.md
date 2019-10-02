@@ -22,6 +22,8 @@ products:
     text: >
       Perinteinen konepaikka on varma valinta! Konepaikalta pääset kokemaan
       Lamerfestin parhaimmillaan
+  - image: /img/user.svg
+    text: Hang Around lipulla pääset tapahtuma-alueelle Lamerfestin henkeen mukaan!
 values:
   heading: Our values
   text: >-
