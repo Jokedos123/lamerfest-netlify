@@ -33,6 +33,10 @@ em {
   font-style: italic;
 }
 
+*:focus {
+  outline: none;
+}
+
 sup {
   font-size: .6rem;
   font-weight: 700;

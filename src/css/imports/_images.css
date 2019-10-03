@@ -6,3 +6,9 @@ img {
 img:not(.w-100) {
   border-radius: var(--border-radius);
 }
+
+.bg-party {
+  background: url(/img/lamerfest_vibes.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}

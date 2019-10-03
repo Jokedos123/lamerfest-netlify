@@ -1,5 +1,5 @@
 ---
-title: Great coffee with a conscience
+title: Lamerfest
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/lf19-inferno-logo_bg.jpg
 blurb:
