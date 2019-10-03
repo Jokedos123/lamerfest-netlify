@@ -140,7 +140,7 @@
 .mr2  {  margin-right: var(--spacing-small); }
 .mr3  {  margin-right: var(--spacing-medium); }
 .mr4  {  margin-right: var(--spacing-large); }
-.mr5  {  margin-right: var(--spacing-extra-large); }
+.mr5  { margin-right: var(--spacing-extra-large); }
 .mr6 {  margin-right: var(--spacing-extra-extra-large); }
 .mr7 { margin-right: var(--spacing-extra-extra-extra-large); }
 

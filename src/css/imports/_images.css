@@ -10,5 +10,4 @@ img:not(.w-100) {
 .bg-party {
   background: url(/img/lamerfest_vibes.jpg);
   background-repeat: no-repeat;
-  background-size: 100%;
 }
