@@ -40,6 +40,10 @@
   background-color: var(--primary);
 }
 
+.bg-primary-o50 {
+  background-color: rgba(186, 65, 31, 0.5);
+}
+
 .bg-highlight {
   background-color: var(--highlight);
 }
@@ -70,6 +74,12 @@
 
 .bg-grey-4-o70 {
     background-color: rgba(31, 38, 42, 0.7);
+}
+
+@media (--breakpoint-not-small) {
+  .bg-nav {
+    background-color: rgba(31, 38, 42, 0.7);
+  }
 }
 
 .bg-black {
